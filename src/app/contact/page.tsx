@@ -55,17 +55,17 @@ const ContactSection = () => {
                 <h2 className="text-xl font-semibold text-black">Address</h2>
                 <br/>
                 <p className="text-gray-600 font-bold">
-                  Saadi Town , Block 4 Scheme 33 Karachi
+                  Gulshan-e-iqbal, BLock-2 karachi.
                 </p>
               </div>
               <div>
                 <h2 className="text-xl font-semibold text-black">More Info</h2>
                 <br/>
                 <p className="text-gray-600 font-bold">
-                  Mobile: +(92) 3193276826<br />
-                 Email: ibadwaseem786@gmail.com<br />
-                 LinkedIn: Syed Muhammad Ibad<br />
-                 Github: Syed Muhammad Ibad<br />
+                  Mobile: +(92) 3343103502<br />
+                 Email: coolashir786@gmail.com<br />
+                 {/* LinkedIn: Syed Muhammad Ibad<br />
+                 Github: Syed Muhammad Ibad<br /> */}
 
                 </p>
               </div>

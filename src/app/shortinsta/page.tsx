@@ -16,7 +16,7 @@ const Short = () => {
           </p>
           <div className="flex justify-center py-10">
             <a
-              href="https://www.linkedin.com/in/syed-muhammad-ibad-56a28a293/"
+              // href="https://www.linkedin.com/in/syed-muhammad-ibad-56a28a293/"
               className="border-2 border-white py-2 px-6 text-lg font-semibold rounded-md hover:bg-white hover:text-black transition"
               style={{ width: "200px", textAlign: "center" }}
             >
