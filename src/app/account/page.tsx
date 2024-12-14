@@ -142,12 +142,11 @@ const Account = () => {
     
     <div className="text-sm text-gray-600 bg-gray-100 p-4 rounded-md">
       <p className="mb-2">
-        A link to set a new password will be sent to your email address.
+        A link to set a new password will be sent to your email address&#46;
       </p>
       <p>
-        Your personal data will be used to support your experience throughout
-        this website, to manage access to your account, and for other purposes
-        described in our privacy policy.
+      Your personal data will be used to support your experience throughout&#10;this website&#44; to manage access to your account&#44; and for other purposes&#10;described in our privacy policy&#46;
+
       </p>
     </div>
    
@@ -183,7 +182,7 @@ const Account = () => {
                 Free Delivery
               </h2>
               <p className="text-lg text-gray-700">
-                For all orders over $50, consectetur adipiscing elit.
+                For all orders over $50&#44; consectetur adipiscing elit&#46;
               </p>
             </div>
            
@@ -192,7 +191,7 @@ const Account = () => {
                 90 Days Return
               </h2>
               <p className="text-lg text-gray-700">
-                If the product has an issue, consectetur adipiscing elit.
+                If the product has an issue&#44; consectetur adipiscing elit&#46;
               </p>
             </div>
           
@@ -201,7 +200,7 @@ const Account = () => {
                 Secure Payments
               </h2>
               <p className="text-lg text-gray-700">
-                100% secure payments, consectetur adipiscing elit.
+                100% secure payments&#44; consectetur adipiscing elit&#46;
               </p>
             </div>
           </div>
